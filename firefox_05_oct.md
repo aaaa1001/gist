@@ -1,0 +1,32 @@
+# Links from Firefox - Oct 05, 2016  
+
+* [SecList Passwords list](https://github.com/danielmiessler/SecLists/tree/master/Passwords) 
+* [SecList merged.txt.tar.gz](https://github.com/danielmiessler/SecLists/issues/70) | [download link](https://github.com/danielmiessler/SecLists/blob/601038eb4ea18c97177b43a757286d3c8a815db8/Passwords/merged.txt.tar.gz)  
+* [Wonder HOWTO password cracking articles index](http://null-byte.wonderhowto.com/how-to/password-cracking/)  
+* [Wonder HOWTO - How to Crack passwords Using Hashcat](http://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-3-using-hashcat-0156543/)  
+* [Google search - password wordlists github](https://www.google.co.in/search?q=password+wordlists+github&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=IPPxV9uLOfPs8Afvp5KADQ)  
+* [Google search - wordlists github](https://www.google.co.in/search?q=wordlists+github&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=1vLxV8asFvPs8Afvp5KADQ)  
+* [Hob0Rules - Password cracking rules for Hashcat](https://github.com/praetorian-inc/Hob0Rules)  
+* [arsTechnica Article - How I became a password cracker](http://arstechnica.com/security/2013/03/how-i-became-a-password-cracker/3/)  
+* [Google search - hashcat wordlists](https://www.google.co.in/search?q=hashcat+wordlists&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=ZPHxV_aEMuLs8AfM4ruoDA)  
+* [A Practical Guide to Cracking Password Hashes](https://labs.mwrinfosecurity.com/blog/a-practical-guide-to-cracking-password-hashes/)  
+* [Google search - hashcat simple dictionary attack](https://www.google.co.in/search?q=hashcat+simple+dictionary+attack&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=lu7xV5fEMOns8AeKh5eQAg)  
+* [md5 Hash Generator](http://www.miraclesalad.com/webtools/md5.php)  
+* [The Birthday Problem](https://en.wikipedia.org/wiki/Birthday_problem)  
+* [Birthday Attack](https://en.wikipedia.org/wiki/Birthday_attack)  
+* [Collision Attack](https://en.wikipedia.org/wiki/Collision_attack)  
+* [Google search - md5 collision attack](https://www.google.co.in/?gfe_rd=cr&ei=MALxV92HJ-Ts8AfZrLyAAg&gws_rd=ssl#q=md5+collision+attack)  
+* [Google search - crack md5](https://www.google.co.in/?gfe_rd=cr&ei=MALxV92HJ-Ts8AfZrLyAAg&gws_rd=ssl#q=crack+md5)  
+* [Proper way to declare custom exceptions in modern Python](http://stackoverflow.com/questions/1319615/proper-way-to-declare-custom-exceptions-in-modern-python)  
+* [Google search - john the ripper vs hashcat](https://www.google.co.in/search?q=john+the+ripper+vs+hashcat&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=vKzwV_HECvDs8Aemm5LYCA)  
+* [John the Ripper](https://en.wikipedia.org/wiki/John_the_Ripper) | http://www.openwall.com/john/  
+* [Dictionaries + Wordlists - Password Cracking Blog](http://blog.g0tmi1k.com/2011/06/dictionaries-wordlists)  
+* [Cracking Story - How I Cracked Over 122 Million SHA1 and MD5 Hashed Passwords](http://blog.thireus.com/cracking-story-how-i-cracked-over-122-million-sha1-and-md5-hashed-passwords/)  
+* [How to select all records that are 10 minutes within current timestamp in MySQL?](http://stackoverflow.com/questions/9013494/how-to-select-all-records-that-are-10-minutes-within-current-timestamp-in-mysql)  
+* [Youtube Video -  Howto: Hashcat Cracking Password Hashes](https://www.youtube.com/watch?v=MyjAw7-eKIs)  
+* [Google search - md5 hash cracker github](https://www.google.co.in/search?q=md5+hash+cracker+code&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&ei=yafvV73oG_Ts8AflnpKoBw#q=md5+hash+cracker+github)  
+* [Youtube Video - DEFCON 20: SQL ReInjector](https://www.youtube.com/watch?v=XnoW7K4L3HA)  
+* [Open Sourcing a Deep Learning Solution for Detecting NSFW Images](https://news.ycombinator.com/item?id=12614193)  
+* [ebook-docker-for-java-developers](https://www.nginx.com/blog/ebook-docker-for-java-developers/)  
+
+
